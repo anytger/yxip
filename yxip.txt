@@ -24,6 +24,10 @@ www.ddosi.org:8443#官方优选域名
 v7.effgh.com:8443#官方优选域名
 ceramicdesignslab.com:8443#官方优选域名
 www.ekdyw.com:8443#官方优选域名
+proxyip.nickng.link:8443#官方优选域名
+visa.ky:8443#官方优选域名
+qkmov.com:8443#官方优选域名
+live.mlsub.net:8443#官方优选域名
 172.64.110.175:8443#优选IP_1
 104.21.90.195:8443#优选IP_2
 172.67.194.112:8443#优选IP_3
